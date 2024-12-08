@@ -253,9 +253,7 @@ private void sendNotifiaction(String receiver, final String username, final Stri
 
 
 
-- Facebook- [@Mohaiminur](https://facebook.com/sifat404)
-- Twitter - [@Mohaiminur](https://twitter.com/sifatkhan442)
-- Website - [Mohaiminur](https://mohaiminur.ml)
+
 
 [Back To The Top](#Textchat)
 ---
